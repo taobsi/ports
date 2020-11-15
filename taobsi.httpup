@@ -1,0 +1,8 @@
+#
+# /etc/ports/taobsi.httpup: taobsi's port collection
+#
+
+ROOT_DIR=/usr/ports/taobsi
+URL=https://raw.githubusercontent.com/taobsi/ports/master/ports/
+
+# End of file

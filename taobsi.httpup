@@ -3,6 +3,6 @@
 #
 
 ROOT_DIR=/usr/ports/taobsi
-URL=https://raw.githubusercontent.com/taobsi/ports/master/ports/
+URL=https://raw.githubusercontent.com/taobsi/ports/main/ports/
 
 # End of file

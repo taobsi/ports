@@ -1,7 +1,7 @@
 # Description: 	openbox configuration manager
 # URL: 			http://openbox.org
 # Maintainer: 	Tobias Heilig, oss at taobsi dot cc
-# Depends on: 	openboxlibglade startup-notification
+# Depends on: 	openbox libglade startup-notification
 
 name=obconf
 version=2.0.4

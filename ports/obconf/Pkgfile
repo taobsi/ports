@@ -1,0 +1,16 @@
+# Description: 	openbox configuration manager
+# URL: 			http://openbox.org
+# Maintainer: 	Tobias Heilig, oss at taobsi dot cc
+# Depends on: 	openboxlibglade startup-notification
+
+name=obconf
+version=2.0.4
+release=1
+source=(http://openbox.org/dist/$name/$name-$version.tar.gz)
+
+build () {
+	cd $name-$version
+	./configure --prefix=/usr --disable-nls --disable-dependency-tracking
+	make
+	make DESTDIR=$PKG install
+}

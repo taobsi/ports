@@ -1,0 +1,14 @@
+# Description: 	cozette font
+# URL: 			https://github.com/slavfox/cozette
+# Maintainer: 	Tobias Heilig, oss at taobsi dot cc
+# Depends on: 	xorg-mkfontscale
+
+name=font-cozette
+version=1.9.2
+release=1
+source=(https://github.com/slavfox/Cozette/releases/download/v.$version/CozetteFonts.zip)
+
+build () {
+	cd CozetteFonts
+	install -vDm 644 cozette.bdf cozette_bitmap.ttf -t $PKG/usr/share/fonts/
+}

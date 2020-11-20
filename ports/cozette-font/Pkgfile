@@ -14,6 +14,6 @@ unpack_source () {
 }
 
 build () {
-	cd CozetteFonts
+	cd $name-$version
 	install -vDm 644 cozette.bdf cozette_bitmap.ttf -t $PKG/usr/share/fonts/
 }

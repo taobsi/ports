@@ -1,10 +1,10 @@
-d:cozette-font
+d:font-cozette
 d:obconf
-f:0032a0ce02841c2a0a6540cdc87bfeba:cozette-font/.footprint
-f:d513cdf9a4dd10ff3aa8f40be8910b09:cozette-font/.md5sum
-f:11400840aab8374e3ed2d48a925a3c1b:cozette-font/post-install
-f:ad82da17aef3dce8a9b79238c097a7a7:cozette-font/.signature
-f:0605af039e646cc7c636f5aaf16cdbdc:cozette-font/Pkgfile
+f:7a16878bc215629f11264c2d450cd9b4:font-cozette/.footprint
+f:d513cdf9a4dd10ff3aa8f40be8910b09:font-cozette/.md5sum
+f:11400840aab8374e3ed2d48a925a3c1b:font-cozette/post-install
+f:53d86963fba6b598c8af8826feb566d4:font-cozette/.signature
+f:a18b9f24736e3aa685033719fcd4ac14:font-cozette/Pkgfile
 f:7fd9158a36d838bf62aea841a1016aff:obconf/.footprint
 f:ce828621b89253c5d65e72d89671696e:obconf/.md5sum
 f:c530bb599b0577f3073b4e41d34a491f:obconf/.signature

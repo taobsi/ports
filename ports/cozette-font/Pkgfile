@@ -8,6 +8,11 @@ version=1.9.2
 release=1
 source=(https://github.com/slavfox/$name/releases/download/v.1.9.2/CozetteFonts.zip)
 
+unpack_source () {
+	install -d $SRC/$name-$version
+	unzip -q -d $SRC/$name-$version $PKGMK_SOURCE_DIR/CozetteFonts.zip
+}
+
 build () {
 	cd CozetteFonts
 	install -vDm 644 cozette.bdf cozette_bitmap.ttf -t $PKG/usr/share/fonts/

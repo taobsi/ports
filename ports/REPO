@@ -1,5 +1,11 @@
+d:font-fantasque
 d:font-cozette
 d:obconf
+f:22d0764bb10fb885aa4e4d58e1fe0487:font-fantasque/.footprint
+f:ca88c29fbb3ca93044ab344931530ba0:font-fantasque/.md5sum
+f:bd9b8bc4d1ca437a317aa2bc5c58f8f8:font-fantasque/post-install
+f:ed89222f1daf271582be8435468862e0:font-fantasque/.signature
+f:e2dc5e357dd1fd1f7573cbeb0e773829:font-fantasque/Pkgfile
 f:7a16878bc215629f11264c2d450cd9b4:font-cozette/.footprint
 f:d513cdf9a4dd10ff3aa8f40be8910b09:font-cozette/.md5sum
 f:11400840aab8374e3ed2d48a925a3c1b:font-cozette/post-install

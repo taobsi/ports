@@ -1,0 +1,11 @@
+drwxr-xr-x	taobsi/users	usr/
+drwxr-xr-x	taobsi/users	usr/share/
+drwxr-xr-x	taobsi/users	usr/share/fonts/
+-rw-r--r--	taobsi/users	usr/share/fonts/FantasqueSansMono-Bold.otf
+-rw-r--r--	taobsi/users	usr/share/fonts/FantasqueSansMono-Bold.ttf
+-rw-r--r--	taobsi/users	usr/share/fonts/FantasqueSansMono-BoldItalic.otf
+-rw-r--r--	taobsi/users	usr/share/fonts/FantasqueSansMono-BoldItalic.ttf
+-rw-r--r--	taobsi/users	usr/share/fonts/FantasqueSansMono-Italic.otf
+-rw-r--r--	taobsi/users	usr/share/fonts/FantasqueSansMono-Italic.ttf
+-rw-r--r--	taobsi/users	usr/share/fonts/FantasqueSansMono-Regular.otf
+-rw-r--r--	taobsi/users	usr/share/fonts/FantasqueSansMono-Regular.ttf

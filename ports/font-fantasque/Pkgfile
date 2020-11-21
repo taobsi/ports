@@ -1,0 +1,13 @@
+# Description: 	fantasque sans mono font
+# URL: 			https://github.com/belluzj/fantasque-sans
+# Maintainer: 	Tobias Heilig, oss at taobsi dot cc
+# Depends on: 	xorg-mkfontscale
+
+name=font-fantasque
+version=1.8.0
+release=1
+source=(https://github.com/belluzj/fantasque-sans/releases/download/v$version/FantasqueSansMono-Normal.tar.gz)
+
+build () {
+	install -vDm 644 TTF/*.ttf OTF/*.otf -t $PKG/usr/share/fonts/
+}
